@@ -4,7 +4,7 @@
 
 ![More Blocks](images/more-blocks.png)
 
-+ You can create blocks that have 'gaps' to add data. These 'gaps' are called __parameters__. To add parameters, first click the type of data you want to add and then give your data a name.
++ You can create blocks that have 'gaps' to add data. These 'gaps' are called __parameters__. To add parameters, click 'options', then click the type of data you want to add and then give your data a name.
 
 ![Create a new block with parameters](images/parameter-create.png)
 
