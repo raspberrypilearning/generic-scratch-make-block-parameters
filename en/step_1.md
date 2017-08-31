@@ -12,7 +12,7 @@
 
 ![Create a new block with parameters](images/parameter-label-text.png)
 
-+ You can then define your new block, except that you can also use the data provided by dragging the circular blocks to use them in your code.
++ You can then define your new block. You can use the data provided by dragging the circular blocks to use them in your code.
 
 ![Define a new block with parameters](images/parameter-define.png)
 
