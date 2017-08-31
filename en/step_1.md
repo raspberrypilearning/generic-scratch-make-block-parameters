@@ -1,19 +1,25 @@
-## Introduction
+## Making a block with parameters
 
-Add project description here. What will learners be making?
++ Click on 'More Blocks' in the Scripts tab, then click on 'Make a Block'.
 
-### What you will make
+![More Blocks](images/more-blocks.png)
 
-Add something here to showcase here, for example:
++ You can create blocks that have 'gaps' to add data. These 'gaps' are called __parameters__. To add parameters, first click the type of data you want to add and then give your data a name.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![Create a new block with parameters](images/parameter-create.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
++ If you want to add some text between parameters, you can add label text:
 
-### What you will learn
+![Create a new block with parameters](images/parameter-label-text.png)
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
++ You can then define your new block, except that you can also use the data provided by dragging the circular blocks to use them in your code.
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level)
+![Define a new block with parameters](images/parameter-define.png)
+
++ You can then use your new block, adding data as parameters into the gaps.
+
+![Use a new block with parameters](images/parameter-use.png)
+
++ The code attached to the 'define' block is run whenever your new block is used, using the data provided.
+
+![Test a new block with parameters](images/parameter-test.png)
