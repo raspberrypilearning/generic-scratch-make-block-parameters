@@ -1,5 +1,3 @@
-## Making a block with parameters
-
 + Click on **More Blocks** in the Scripts tab, then click on **Make a Block**.
 
 ![More Blocks](images/more-blocks.png)
